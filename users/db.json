@@ -1,0 +1,28 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "firstName": "sup",
+      "age": 123456789,
+      "companyId": "1234567890"
+    },
+    {
+      "id": "2",
+      "firstName": "yo",
+      "age": 1234567890,
+      "companyId": "1"
+    }
+  ],
+  "companies": [
+    {
+      "id": "1",
+      "name": "baloney",
+      "description": "12345678901234567890"
+    },
+    {
+      "id": "2",
+      "name": "maloney",
+      "description": "12345678901234567890"
+    }
+  ]
+}
